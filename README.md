@@ -2,7 +2,7 @@
 
 ### Introduction
 
-The rapid growth of the Internet has made the digital media acquiring and distributing easy in daily life. Protecting the copyright of the digital media has become an important topic due to digital media can be copied and modified easily. In order to achieve the purpose of copyright protection, digital watermarking is a method of embedding identifying information in an image, in such a manner that it cannot be easily removed providing a mechanism to image owner to prevent illegal copying of the image. This visual cryptography scheme can resist several attacks such as lossy compression, gamma correction, noise addition, fake visible watermark, blurring and sharpening attacks on different types of images.
+The rapid growth of the Internet has made the digital media acquiring and distributing easy in daily life. Protecting the copyright of the digital media has become an important topic due to digital media can be copied and modified easily. In order to achieve the purpose of copyright protection, digital watermarking is a method of embedding identifying information in an image, in such a manner that it cannot be easily removed providing a mechanism to image owner to prevent illegal copying of the image. This visual cryptography scheme can resist several attacks such as lossy compression, gamma correction, noise addition, fake visible watermark addition, blurring and sharpening attacks on different types of images.
 
 ### Block Diagram of Encryption Scheme
 
