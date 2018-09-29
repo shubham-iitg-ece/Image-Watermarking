@@ -10,7 +10,7 @@ The rapid growth of the Internet has made the digital media acquiring and distri
 
 ### Block Diagram of Decryption Scheme
 
-![alt text](![alt text](https://github.com/shubham-iitg-ece/Image-Watermarking/blob/master/images/Encryption%20Block%20Diagram.png "Decryption Scheme")
+![alt text](https://github.com/shubham-iitg-ece/Image-Watermarking/blob/master/images/Encryption%20Block%20Diagram.png "Decryption Scheme")
 
 ### References
 
